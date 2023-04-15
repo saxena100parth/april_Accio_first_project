@@ -1,0 +1,46 @@
+.heading {
+  text-decoration: underline;
+  font-size: 40px;
+}
+.top_section {
+  padding: 35px;
+  width: 1400px;
+  height: 530px;
+
+  border: 2px solid #000000;
+}
+.middle_section {
+  padding: 35px;
+}
+.bottom_section {
+  padding: 35px;
+}
+.image {
+  width: 1051px;
+  height: 762px;
+}
+.para {
+  font-family: Inter;
+  font-size: 32px;
+  font-weight: 400;
+  line-height: 48px;
+  letter-spacing: 0em;
+  text-align: left;
+}
+.beagle {
+  font-family: Inter;
+  font-size: 32px;
+  font-weight: 700;
+  line-height: 48px;
+  letter-spacing: 0em;
+  font-style: italic;
+  text-align: left;
+}
+.link {
+  font-family: Inter;
+  font-size: 40px;
+  font-weight: 400;
+  line-height: 48px;
+  letter-spacing: 0em;
+  text-align: left;
+}
